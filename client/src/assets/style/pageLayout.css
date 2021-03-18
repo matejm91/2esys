@@ -1,0 +1,23 @@
+.twoesys-pageLayout__pageBody {
+  margin: 20px;
+}
+
+.twoesys-pageLayout__logo {
+  height: 65px;
+  vertical-align: middle;
+}
+
+.twoesys-pageLayout__navBar {
+  text-align: center;
+}
+
+.twoesys-pageLayout__menuItem {
+  margin: 0 25px;
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.twoesys-pageLayout__menu {
+  display: inline-flex;
+}

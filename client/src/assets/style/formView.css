@@ -1,0 +1,14 @@
+.twoesys-formView__input {
+  width: 90%;
+  margin: 10px;
+}
+
+.twoesys-formView__button {
+  margin: 0 20px !important;
+}
+
+.twoesys-formView__map {
+  height: 300px;
+  width: 650px;
+  margin: 10px auto;
+}

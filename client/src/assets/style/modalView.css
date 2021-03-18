@@ -1,0 +1,15 @@
+.twoesys-modalView__modal {
+  background-color: #fff;
+  width: 700px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.twoesys-modalView__deleteBody {
+  padding: 20% 0px;
+  outline: none;
+}
+
+.twoesys-modalView__button {
+  margin: 0 20px !important;
+}
